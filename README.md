@@ -6,4 +6,5 @@ Here, I have given description on topics related to:
 2. Python Numpy
 3. Python Pandas
 4. Python Matplotlib
-5. EDA
+5. EDA (Imputation, Scaling and Train Test Split)
+
